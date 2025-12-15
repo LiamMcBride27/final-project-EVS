@@ -5,6 +5,6 @@ Link to report section (below)
 Embedded plots
 - [Report](README.md)
 - [Interactive plot](plot1.html)
+- [Code](CS215_Hw6_Visualizations.ipynb)
 
 
-<iframe src="plot1.html" width="100%" height="550"></iframe>
