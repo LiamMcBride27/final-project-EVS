@@ -1,5 +1,8 @@
 ---
+layout: default
+title: Final Project – EVS
 ---
+
 
 # final-project-EVS
 ## Group Members
