@@ -1,4 +1,5 @@
-Project title
+## Washington State EV Analysis
+
 Short description
 Link to report section (below)
 Embedded plots
