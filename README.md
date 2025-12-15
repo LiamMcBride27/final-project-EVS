@@ -17,3 +17,6 @@ Our analysis was based on the following visualization that we created. It shows 
 ## Conclusion
 Unfortunately the data does not go back far enough to give us meaningful information about the impact of Obama-era legislation. We could say that the stagnation between the years of 2017-2019 is a result of manufacturers hitting their eligibility limits for the tax credits, but that is purely speculation. What is absolutely clear Biden-era legislation. 2021 was the year of the Bipartisan Infrastructure Law and its effects are immediately obvious. Chargers and Vehicles had a large spike in growth, and that growth stayed strong for vehicles for the next two years. The reason that the rate of growth for chargers didn't remain high can be attributed to the fact that they are pieces of infrastructure rather than consumer goods. The average length of vehicle ownership is five years or less for nearly two-thirds of Americans, so cars are constantly being purchased. Whereas chargers are a one and done sort of deal that serve large areas and dont need replacement. By 2024 we see the rate of growth for EVs fall off as well. It could be argued that many of the people who wanted an EV bought one or it could be a result of some economic conditions. 
 
+<iframe src="plot1.html" width="100%" height="500"></iframe>
+
+
