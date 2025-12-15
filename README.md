@@ -26,6 +26,7 @@ Unfortunately the data does not go back far enough to give us meaningful informa
 ## Visualisation 
 
 [Graph](plot1.html)
+<iframe src="plot1.html" width="100%" height="550"></iframe>
 
 
 
