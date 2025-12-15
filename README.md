@@ -3,4 +3,4 @@
 - Liam McBride
 - Emerie Tattersall
 ## Code
-- [Colab Notebook]()
+- [Colab Notebook](CS215_Hw6_Visualizations.ipynb)
